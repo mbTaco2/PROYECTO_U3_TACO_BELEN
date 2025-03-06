@@ -1,0 +1,5 @@
+* text=auto
+*.cs eol=lf
+*.json eol=lf
+*.unity eol=lf
+*.prefab eol=lf
