@@ -1,0 +1,73 @@
+# Unity-specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore auto-generated Unity files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache and temporary files
+/Logs/
+/MemoryCaptures/
+*.stackdump
+*.bak
+*.swp
+*.tmp
+
+# Ignore Unity-generated meta files
+*.pidb.meta
+*.unitypackage
+
+# Ignore crash reports and system-specific files
+sysinfo.txt
+
+# Windows system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux system files
+*~
+.directory
+
+# Ignore Visual Studio and JetBrains Rider project files
+.vscode/
+.idea/
+*.iml
+*.resharper/
+*.sublime-workspace
+
+# Ignore logs and temporary files
+*.log
+
+# Ignore Play mode state and Editor-only settings
+/Library/ShaderCache/
+*.csproj.user
+*.asset
+
+# Ignore Lightmap and GI Cache
+/Library/GICache/
+
+# Ignore auto-generated animation files
+*.anim.meta
+
+# Ignore Editor analytics files
+/Library/Analytics/

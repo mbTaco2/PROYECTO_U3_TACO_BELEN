@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|c:\\josuebmll 2024\\septimo semestre\\videojuegos\\parcial 3\\ia_juego_3d\\assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|c:\\josuebmll 2024\\septimo semestre\\videojuegos\\parcial 3\\ia_juego_3d\\assets\\script\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\assets\\script\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9262F1D-2B4C-6A5D-448C-DB16234D6A3D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candy.cs",
+              "DocumentMoniker": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\Candy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Candy.cs",
+              "ToolTip": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\Candy.cs",
+              "RelativeToolTip": "Assets\\Script\\Candy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:43:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MazeGenerator.cs",
+              "DocumentMoniker": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\MazeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MazeGenerator.cs",
+              "ToolTip": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\MazeGenerator.cs",
+              "RelativeToolTip": "Assets\\Script\\MazeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:37:16.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAI.cs",
+              "ToolTip": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAI.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAowN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:55:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\JOSUEBMLL 2024\\SEPTIMO SEMESTRE\\VIDEOJUEGOS\\PARCIAL 3\\IA_JUEGO_3D\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:21:57.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
